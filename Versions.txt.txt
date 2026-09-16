@@ -3,3 +3,9 @@ Direction for upcoming versions that will build up skillsets to create this proj
 
 
 1.0.0
+Learning txt file manipulation
+read, overwrite
+
+1.0.1
+https://www.geeksforgeeks.org/c-sharp/c-sharp-program-for-listing-the-files-in-a-directory/
+Reading files in a directory
