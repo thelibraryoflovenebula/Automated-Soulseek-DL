@@ -1,0 +1,7 @@
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\patri\Desktop\GITHUB PROJECTS\Automated Soulseek DL\Ideas\002\Test1\Test1\obj\Debug\Test1.pdb
