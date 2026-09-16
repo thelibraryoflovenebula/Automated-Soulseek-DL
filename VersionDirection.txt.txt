@@ -1,0 +1,5 @@
+Direction for upcoming versions that will build up skillsets to create this project
+
+
+
+1.0.0
